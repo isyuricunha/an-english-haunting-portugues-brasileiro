@@ -48,16 +48,12 @@ A investigação passa pelas ruas enevoadas de Londres, pelas costas da Escócia
 
 <p align="center">
   <img width="48%" alt="Dreams in the Witch House em Português" src="https://github.com/user-attachments/assets/cd167e43-9119-4dff-854f-9c5a932019a6" />
-" />
   <img width="48%" alt="Dreams in the Witch House em Português" src="https://github.com/user-attachments/assets/b8482b2d-74c2-494e-917a-1b71547ceba8" />
-" />
 </p>
 
 <p align="center">
   <img width="48%" alt="Dreams in the Witch House em Português" src="https://github.com/user-attachments/assets/2d45e32d-acc0-4cf4-b4fa-2d10c64fccd8" />
-" />
   <img width="48%" alt="Dreams in the Witch House em Português" src="https://github.com/user-attachments/assets/e95c2c28-9d46-44ba-936d-9cce3288db5a" />
-" />
 </p>
 
 ---
