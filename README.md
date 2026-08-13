@@ -61,6 +61,7 @@ English.tra
 > O nome `English.tra` é **intencional** e não deve ser alterado.
 
 A tradução utiliza o próprio slot de idioma inglês do jogo.
+
 O Menu inicial e as configurações não podem ser traduzidos, então estão em Inglês, mas dentro do jogo tudo está traduzido.
 
 ---
@@ -118,6 +119,7 @@ Depois de instalar:
 > **Não renomeie `English.tra` para `Portuguese.tra`, `PTBR.tra` ou qualquer outro nome.**
 
 O jogo possui comportamentos internos associados especificamente ao arquivo `English.tra`, por isso o nome original precisa ser preservado.
+> O Menu inicial e as configurações não podem ser traduzidos, então estão em Inglês, mas dentro do jogo tudo está traduzido.
 
 ---
 
