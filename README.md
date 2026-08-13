@@ -115,6 +115,7 @@ Depois de instalar:
 1. Inicie **An English Haunting**.
 2. Caso seja necessário escolher um idioma, selecione **English**.
 3. O conteúdo desse idioma será exibido em **Português Brasileiro**.
+4. O Menu inicial e as configurações não podem ser traduzidos, então estão em Inglês, mas dentro do jogo tudo está traduzido.
 
 > **Não renomeie `English.tra` para `Portuguese.tra`, `PTBR.tra` ou qualquer outro nome.**
 
